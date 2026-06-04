@@ -1,0 +1,31 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#0F172A"/>
+  <rect x="48" y="42" width="1104" height="636" rx="18" fill="#111827" stroke="#334155"/>
+  <text x="82" y="96" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">app-opportunity-discoverer</text>
+  <text x="82" y="132" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="18">From zero direction to a ranked shortlist of app ideas</text>
+  <rect x="82" y="168" width="1036" height="78" rx="12" fill="#0B1220" stroke="#1E293B"/>
+  <text x="110" y="202" fill="#38BDF8" font-family="Menlo, Consolas, monospace" font-size="18">Prompt</text>
+  <text x="110" y="228" fill="#E2E8F0" font-family="Menlo, Consolas, monospace" font-size="17">Discover app ideas for a solo developer. SwiftUI or Next.js, 2-week MVP, low budget.</text>
+  <text x="82" y="292" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Ranked Shortlist</text>
+  <rect x="82" y="320" width="1036" height="238" rx="12" fill="#0B1220" stroke="#1E293B"/>
+  <text x="112" y="360" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Rank</text>
+  <text x="192" y="360" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Idea</text>
+  <text x="572" y="360" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">User Wedge</text>
+  <text x="892" y="360" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Score</text>
+  <line x1="110" y1="378" x2="1090" y2="378" stroke="#1E293B"/>
+  <text x="122" y="416" fill="#FBBF24" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">1</text>
+  <text x="192" y="416" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18">Private voice memory app</text>
+  <text x="572" y="416" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16">Founders, writers, ADHD users</text>
+  <text x="902" y="416" fill="#22C55E" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">81</text>
+  <text x="122" y="470" fill="#FBBF24" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">2</text>
+  <text x="192" y="470" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18">MyFitnessPal switcher</text>
+  <text x="572" y="470" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16">Frustrated macro tracking users</text>
+  <text x="902" y="470" fill="#A3E635" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">77</text>
+  <text x="122" y="524" fill="#FBBF24" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">3</text>
+  <text x="192" y="524" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="18">Pet-safe plant inventory</text>
+  <text x="572" y="524" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16">Pet owners with houseplants</text>
+  <text x="902" y="524" fill="#A3E635" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">74</text>
+  <rect x="82" y="586" width="1036" height="54" rx="12" fill="#082F49" stroke="#0EA5E9"/>
+  <text x="110" y="620" fill="#E0F2FE" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">Handoff:</text>
+  <text x="204" y="620" fill="#BAE6FD" font-family="Inter, Arial, sans-serif" font-size="18">Send the top idea to app-opportunity-analyst for deep validation.</text>
+</svg>
